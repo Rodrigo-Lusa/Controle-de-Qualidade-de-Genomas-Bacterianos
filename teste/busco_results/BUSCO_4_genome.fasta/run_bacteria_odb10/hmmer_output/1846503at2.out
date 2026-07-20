@@ -1,0 +1,16 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_VULR01000012.1:34142-34633|+ -            164 1846503at2           -            110   2.5e-36  121.1   0.4   1   1   4.4e-37   5.5e-34  113.6   0.4     2   107     2   134     1   136 0.85 NZ_VULR01000012.1_41 # 34142 # 34633 # 1 # ID=4_41;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.291
+NZ_VULR01000009.1:44001-44612|+ -            204 1846503at2           -            110   6.3e-05   20.0   0.1   1   2   5.7e-07    0.0007   16.7   0.0     2    27     6    31     5    40 0.85 NZ_VULR01000009.1_49 # 44001 # 44612 # 1 # ID=46_49;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.273
+NZ_VULR01000009.1:44001-44612|+ -            204 1846503at2           -            110   6.3e-05   20.0   0.1   2   2     0.051        63    0.7   0.0    69   105   138   175   127   180 0.82 NZ_VULR01000009.1_49 # 44001 # 44612 # 1 # ID=46_49;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.273
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1846503at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_4_genome.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_4_genome.fasta/run_bacteria_odb10/hmmer_output/1846503at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1846503at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_4_genome.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:18:32 2026
+# [ok]

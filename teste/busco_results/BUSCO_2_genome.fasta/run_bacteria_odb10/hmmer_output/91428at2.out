@@ -1,0 +1,20 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DWXM01000088.1:37339-39966|+ -            876 91428at2             -            555  6.9e-164  542.6  37.2   1   5  1.3e-108    1e-105  350.6   9.6     2   330     5   437     4   449 0.79 DWXM01000088.1_37 # 37339 # 39966 # 1 # ID=77_37;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.347
+DWXM01000088.1:37339-39966|+ -            876 91428at2             -            555  6.9e-164  542.6  37.2   2   5   8.5e-09   6.5e-06   21.2   0.1   334   358   489   513   476   524 0.85 DWXM01000088.1_37 # 37339 # 39966 # 1 # ID=77_37;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.347
+DWXM01000088.1:37339-39966|+ -            876 91428at2             -            555  6.9e-164  542.6  37.2   3   5   6.5e-51     5e-48  160.2   7.4   359   516   562   739   555   763 0.76 DWXM01000088.1_37 # 37339 # 39966 # 1 # ID=77_37;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.347
+DWXM01000088.1:37339-39966|+ -            876 91428at2             -            555  6.9e-164  542.6  37.2   4   5    0.0054       4.1    2.0   0.3   476   524   728   776   722   783 0.79 DWXM01000088.1_37 # 37339 # 39966 # 1 # ID=77_37;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.347
+DWXM01000088.1:37339-39966|+ -            876 91428at2             -            555  6.9e-164  542.6  37.2   5   5   1.1e-06   0.00087   14.1   1.2   491   555   783   857   773   857 0.64 DWXM01000088.1_37 # 37339 # 39966 # 1 # ID=77_37;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.347
+DWXM01000071.1:62237-64171|- -            645 91428at2             -            555    0.0012   13.6   0.0   1   2   1.1e-05    0.0087   10.8   0.0   358   465    73   203    65   254 0.61 DWXM01000071.1_57 # 62237 # 64171 # -1 # ID=55_57;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.375
+DWXM01000071.1:62237-64171|- -            645 91428at2             -            555    0.0012   13.6   0.0   2   2      0.27     2e+02   -3.6   0.0   454   498   359   403   357   412 0.76 DWXM01000071.1_57 # 62237 # 64171 # -1 # ID=55_57;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.375
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/91428at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_2_genome.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_2_genome.fasta/run_bacteria_odb10/hmmer_output/91428at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/91428at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_2_genome.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:17:47 2026
+# [ok]

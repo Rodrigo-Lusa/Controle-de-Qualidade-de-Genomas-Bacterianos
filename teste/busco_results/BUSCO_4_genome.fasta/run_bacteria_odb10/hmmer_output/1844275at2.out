@@ -1,0 +1,17 @@
+#                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_VULR01000010.1:12400-13323|+   -            308 1844275at2           -            194   1.8e-48  161.8   0.1   1   3   5.6e-38   6.9e-35  117.5   0.0    14   123    45   176    39   207 0.86 NZ_VULR01000010.1_11 # 12400 # 13323 # 1 # ID=2_11;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.306
+NZ_VULR01000010.1:12400-13323|+   -            308 1844275at2           -            194   1.8e-48  161.8   0.1   2   3   6.9e-05     0.086    9.5   0.0   132   149   218   235   206   246 0.82 NZ_VULR01000010.1_11 # 12400 # 13323 # 1 # ID=2_11;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.306
+NZ_VULR01000010.1:12400-13323|+   -            308 1844275at2           -            194   1.8e-48  161.8   0.1   3   3   1.6e-11     2e-08   31.2   0.0   144   193   250   303   236   304 0.87 NZ_VULR01000010.1_11 # 12400 # 13323 # 1 # ID=2_11;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.306
+NZ_VULR01000006.1:112443-113087|+ -            215 1844275at2           -            194    0.0086   12.8   0.1   1   1     1e-05     0.013   12.2   0.1   131   189    63   121    33   126 0.84 NZ_VULR01000006.1_118 # 112443 # 113087 # 1 # ID=43_118;partial=00;start_type=TTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.265
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1844275at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_4_genome.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_4_genome.fasta/run_bacteria_odb10/hmmer_output/1844275at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1844275at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_4_genome.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:18:32 2026
+# [ok]

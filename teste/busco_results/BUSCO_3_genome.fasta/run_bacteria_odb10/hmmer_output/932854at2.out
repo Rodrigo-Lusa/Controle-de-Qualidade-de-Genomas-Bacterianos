@@ -1,0 +1,22 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+JASKZX010000101.1:3148-5367|+   -            740 932854at2            -           1620   9.6e-35  115.5   0.5   1   3      0.11        21   -1.7   0.0   604   641    22    56     7    70 0.73 JASKZX010000101.1_6 # 3148 # 5367 # 1 # ID=150_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.441
+JASKZX010000101.1:3148-5367|+   -            740 932854at2            -           1620   9.6e-35  115.5   0.5   2   3   5.2e-36     1e-33  112.0   0.1   733  1288    90   652    82   688 0.78 JASKZX010000101.1_6 # 3148 # 5367 # 1 # ID=150_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.441
+JASKZX010000101.1:3148-5367|+   -            740 932854at2            -           1620   9.6e-35  115.5   0.5   3   3    0.0076       1.5    2.1   0.3   915  1019   626   723   610   728 0.74 JASKZX010000101.1_6 # 3148 # 5367 # 1 # ID=150_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.441
+JASKZX010000101.1:2479-3147|+   -            223 932854at2            -           1620   8.8e-14   46.0   0.1   1   1   7.3e-15   1.5e-12   41.9   0.1  1371  1605     5   209     1   220 0.79 JASKZX010000101.1_5 # 2479 # 3147 # 1 # ID=150_5;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.410
+JASKZX010000005.1:10070-11092|- -            341 932854at2            -           1620   2.3e-06   21.4   1.2   1   2   1.4e-08   2.8e-06   21.1   0.4   101   173     3    77     1    95 0.83 JASKZX010000005.1_12 # 10070 # 11092 # -1 # ID=88_12;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.422
+JASKZX010000005.1:10070-11092|- -            341 932854at2            -           1620   2.3e-06   21.4   1.2   2   2      0.19        38   -2.5   0.0   668   723   176   232   162   236 0.74 JASKZX010000005.1_12 # 10070 # 11092 # -1 # ID=88_12;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.422
+JASKZX010000045.1:3344-6790|-   -           1149 932854at2            -           1620   3.1e-06   20.9   0.1   1   1   2.3e-08   4.6e-06   20.4   0.1    81   184    99   207    59   211 0.86 JASKZX010000045.1_6 # 3344 # 6790 # -1 # ID=148_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.415
+JASKZX010000061.1:8024-9205|-   -            394 932854at2            -           1620   9.7e-06   19.3   0.2   1   1   6.5e-08   1.3e-05   18.9   0.2   106   185     8   102     6   117 0.81 JASKZX010000061.1_9 # 8024 # 9205 # -1 # ID=108_9;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.404
+JASKZX010000027.1:1-1203|+      -            401 932854at2            -           1620   3.6e-05   17.4   0.0   1   1   3.9e-07   7.7e-05   16.3   0.0   110   203     8   100     5   172 0.83 JASKZX010000027.1_1 # 1 # 1203 # 1 # ID=178_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.437
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/932854at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_genome.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_genome.fasta/run_bacteria_odb10/hmmer_output/932854at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/932854at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_genome.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:18:09 2026
+# [ok]

@@ -1,0 +1,319 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/984717at2.hmm
+# target sequence database:        /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_2_genome.fasta/prodigal_output/predicted_genes/predicted.faa
+# per-dom hits tabular output:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_2_genome.fasta/run_bacteria_odb10/hmmer_output/984717at2.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       984717at2  [M=224]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                     -----------
+    1.4e-67  223.9  14.7    2.2e-63  210.3  14.7    3.1  1  DWXM01000086.1:16049-16951|-  DWXM01000086.1_17 # 16049 # 1695
+      1e-33  113.2   1.3      2e-17   59.9   0.0    2.6  2  DWXM01000017.1:39014-40324|+  DWXM01000017.1_46 # 39014 # 4032
+    8.5e-15   51.3   0.9    8.5e-15   51.3   0.9    1.7  2  DWXM01000007.1:38014-39390|-  DWXM01000007.1_44 # 38014 # 3939
+    3.3e-12   42.9   0.3    4.4e-10   35.9   0.0    2.4  2  DWXM01000060.1:1418-2272|+    DWXM01000060.1_2 # 1418 # 2272 #
+    9.9e-11   38.0   7.3    0.00085   15.4   0.0    5.3  5  DWXM01000017.1:68705-72061|+  DWXM01000017.1_79 # 68705 # 7206
+    1.8e-10   37.2   1.5      9e-09   31.6   0.2    2.2  2  DWXM01000088.1:44802-45905|+  DWXM01000088.1_47 # 44802 # 4590
+    2.2e-10   36.9   0.1    1.4e-09   34.3   0.0    2.0  2  DWXM01000071.1:34511-35098|-  DWXM01000071.1_29 # 34511 # 3509
+    2.2e-06   23.8   0.1    1.7e-05   20.9   0.0    2.0  2  DWXM01000088.1:5894-7174|+    DWXM01000088.1_11 # 5894 # 7174 
+    6.2e-05   19.1   0.3    0.00016   17.7   0.1    1.8  2  DWXM01000047.1:65-2173|+      DWXM01000047.1_1 # 65 # 2173 # 1
+    0.00024   17.2   9.4    0.00066   15.7   0.1    2.4  2  DWXM01000007.1:31476-32576|-  DWXM01000007.1_37 # 31476 # 3257
+    0.00031   16.8   0.4     0.0056   12.7   0.0    2.1  2  DWXM01000072.1:8097-8960|+    DWXM01000072.1_7 # 8097 # 8960 #
+
+
+Domain annotation for each sequence (and alignments):
+>> DWXM01000086.1:16049-16951|-  DWXM01000086.1_17 # 16049 # 16951 # -1 # ID=73_17;partial=00;start_type=ATG;rbs_motif=A
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  210.3  14.7   1.6e-65   2.2e-63       1     218 [.       8     286 ..       8     295 .. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 210.3 bits;  conditional E-value: 1.6e-65
+                     984717at2   1 fvaivGrpNvGKstLlnalvgekvaivskkaqttRhrirgivt.eeaqivfvDtPGlhkpk..lneal...aksaledvdv 75 
+                                   f++i+GrpNvGKst++n+++g+kvai+s+k+qttR++i+g++t ++aq++f+DtPG+hkpk  l+e++   ak++l++ +v
+  DWXM01000086.1:16049-16951|-   8 FITILGRPNVGKSTFMNHVLGQKVAIMSDKPQTTRNKIQGVYTtDTAQMIFIDTPGIHKPKhqLGEHMmrvAKRTLKETEV 88 
+                                   89***************************************872679***********97433999874557899****** PP
+
+                     984717at2  76 vlfvvdaee........ileklk..ktpvilvvnkiDkv..e.............elleivpvsa....nveellp..... 122
+                                   +lfvv+a+e        il+ +k  ktpvilv+nkiD +  +             e++++vp+sa    n+++ll+     
+  DWXM01000086.1:16049-16951|-  89 ILFVVNATEkkgpgdeyILNMIKdtKTPVILVINKIDLIhpDelpeiierysnefEFADVVPISAlqgtNTTNLLDviesh 169
+                                   *****99764455555577777622589*********9865522222222222222356899*986655555555322111 PP
+
+                     984717at2 123 ..egp..ypedqltdeserflvaelirekile.lkeElPysvaveiee...............ilverdsqkaiviGkkge 183
+                                     egp  yp+d++td++e+f+v+elirekil  +++E+P+s+ ve+++               i+verdsqk++viGk+g+
+  DWXM01000086.1:16049-16951|- 170 leEGPmyYPKDRVTDHPEHFIVSELIREKILLlTEQEIPHSIGVEVTKmkreddrekvkveaiIYVERDSQKGMVIGKGGK 250
+                                   1165466**********************9762689******99886534444444555555679**************** PP
+
+                     984717at2 184 klkkigtearkelekllgkkvfL.lwvkvkkdWrdd 218
+                                   +lk++gt ark++e+llg+kv+L lwvkv+kdWr++
+  DWXM01000086.1:16049-16951|- 251 MLKRVGTLARKDIEALLGDKVYLeLWVKVQKDWRNK 286
+                                   ***********************99*********97 PP
+
+>> DWXM01000017.1:39014-40324|+  DWXM01000017.1_46 # 39014 # 40324 # 1 # ID=79_46;partial=00;start_type=ATG;rbs_motif=GG
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   59.9   0.0   1.4e-19     2e-17       2     110 ..       5     129 ..       4     134 .. 0.74
+   2 !   51.6   0.3   4.9e-17   6.8e-15       2     106 ..     177     300 ..     176     314 .. 0.71
+
+  Alignments for each domain:
+  == domain 1  score: 59.9 bits;  conditional E-value: 1.4e-19
+                     984717at2   2 vaivGrpNvGKstLlnalvgekvaivskkaqttRhrirgivt.eeaqivfvDtPGlh..kpklnealaks...aledvdvv 76 
+                                   va+vGrpNvGKstL n+++ge+ +iv + +  tR+ri +  +   + + ++Dt G+   ++ +++ +a++   a++++dv+
+  DWXM01000017.1:39014-40324|+   5 VAVVGRPNVGKSTLFNRIIGERKSIVEDTPGVTRDRIYSTGEwLGHEFNIIDTGGIEleNSLFQNEIAMQaeiAIDEADVI 85 
+                                   9************************************8765413578999*****962245567777655223699***** PP
+
+                     984717at2  77 lfvvdaee........ilekl..kktpvilvvnkiDkveellei 110
+                                   ++vv+ +e        i++ l  +k+pv+l+vnkiD+ e   ei
+  DWXM01000017.1:39014-40324|+  86 VMVVNGREgvtnddahIAHLLhrSKKPVVLMVNKIDSYELRSEI 129
+                                   ***986542111122144444224689*********98765555 PP
+
+  == domain 2  score: 51.6 bits;  conditional E-value: 4.9e-17
+                     984717at2   2 vaivGrpNvGKstLlnalvgekvaivskkaqttRhrirg.ivteeaqivfvDtPGlhkp........klnealaksaledv 73 
+                                   v+++GrpNvGKs+L+n+++ge   ivs+ a ttR++i + + ++ + + fvDt G+ k+        k     a+ a+e  
+  DWXM01000017.1:39014-40324|+ 177 VSLIGRPNVGKSSLVNTILGEERVIVSNIAGTTRDAIDSkLEKDGVNYTFVDTAGIRKRgkvyesteKYSVLRANVAIERS 257
+                                   89***********************************8735667789*********9753222111122333466788999 PP
+
+                     984717at2  74 dvvlfvvdaeeileklkk..........tpvilvvnkiDkvee 106
+                                   dvvl+v++ ee +++ +k          + +i+vvnk D+ve+
+  DWXM01000017.1:39014-40324|+ 258 DVVLIVLNGEEGIREQDKriaglaheagRAIIIVVNKWDAVEK 300
+                                   9999999877655443321111111111467888888888865 PP
+
+>> DWXM01000007.1:38014-39390|-  DWXM01000007.1_44 # 38014 # 39390 # -1 # ID=31_44;partial=00;start_type=ATG;rbs_motif=G
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -3.2   0.1       2.8     4e+02     109     134 ..     166     189 ..     149     209 .. 0.57
+   2 !   51.3   0.9   6.1e-17   8.5e-15       3     104 ..     225     340 ..     223     351 .. 0.81
+
+  Alignments for each domain:
+  == domain 1  score: -3.2 bits;  conditional E-value: 2.8
+                     984717at2 109 eivpvsanveellpegpypedqltde 134
+                                   ei+ v a+ve  ++  +y++  + ++
+  DWXM01000007.1:38014-39390|- 166 EILEVLAQVEVNIDYPEYDD--VEEA 189
+                                   55566666666655555543..3333 PP
+
+  == domain 2  score: 51.3 bits;  conditional E-value: 6.1e-17
+                     984717at2   3 aivGrpNvGKstLlnalvgekvaivskkaqttRhrirg.ivteeaqivfvDtPGlhk.....pklnealaksaledvdvvl 77 
+                                    ivG+pNvGKs+Lln l+++  aiv++ a ttR+ ++  +  +   + +vDt G+ +     ++++   +++al++++++l
+  DWXM01000007.1:38014-39390|- 225 VIVGKPNVGKSSLLNYLIQDNRAIVTDIAGTTRDILEEyVNVNGIPLKLVDTAGIREtedvvERIGVERSREALNNAELIL 305
+                                   59********************************99862555677889*******873222235666778899******** PP
+
+                     984717at2  78 fvvdae........eileklkktpvilvvnkiDkv 104
+                                   +++d +        eil+ lk+++vi++vnkiD  
+  DWXM01000007.1:38014-39390|- 306 YLLDNTqgfssedeEILDVLKDRNVIIIVNKIDLD 340
+                                   *9986422222222799****************75 PP
+
+>> DWXM01000060.1:1418-2272|+  DWXM01000060.1_2 # 1418 # 2272 # 1 # ID=42_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    4.9   0.1    0.0093       1.3      66     106 ..      17      65 ..       7      72 .. 0.65
+   2 !   35.9   0.0   3.2e-12   4.4e-10       3      65 ..     124     184 ..     122     269 .. 0.68
+
+  Alignments for each domain:
+  == domain 1  score: 4.9 bits;  conditional E-value: 0.0093
+                   984717at2  66 aksaledvdvvlfvvdae........eileklkktpvilvvnkiDkvee 106
+                                 +++ l++vdv++ ++da+         + e +k++p i+++nk D +++
+  DWXM01000060.1:1418-2272|+  17 IEENLNKVDVIIEILDARiplssqnpMMDEIVKNKPRIVILNKADLANQ 65 
+                                 566777888888777765222211112345678999*********9954 PP
+
+  == domain 2  score: 35.9 bits;  conditional E-value: 3.2e-12
+                   984717at2   3 aivGrpNvGKstLlnalvgekvaivskkaqttRhrirgivteeaqivfvDtPGlhkpklneal 65 
+                                  i+G pNvGKstL+n+l ++kva + + +  t+++ + i+   + + ++DtPG+  pk++  +
+  DWXM01000060.1:1418-2272|+ 124 MIIGIPNVGKSTLINSLAKRKVARTGNTPGLTKSQ-QWIKA-GSNLELLDTPGVLWPKFEGDI 184
+                                 69******************************987.66777.68999*******999876554 PP
+
+>> DWXM01000017.1:68705-72061|+  DWXM01000017.1_79 # 68705 # 72061 # 1 # ID=79_79;partial=00;start_type=ATG;rbs_motif=No
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.4   0.0   6.1e-06   0.00085       2      76 ..      43     115 ..      42     131 .. 0.79
+   2 !    7.3   0.0    0.0018      0.25      46     104 ..     130     199 ..     120     231 .. 0.71
+   3 !   14.4   0.0   1.2e-05    0.0016       2      43 ..     581     620 ..     580     628 .. 0.80
+   4 ?    0.6   0.1       0.2        27      50     114 ..     724     802 ..     719     829 .. 0.53
+   5 ?   -2.6   0.1       1.8   2.5e+02     125     155 ..    1016    1046 ..     954    1053 .. 0.67
+
+  Alignments for each domain:
+  == domain 1  score: 15.4 bits;  conditional E-value: 6.1e-06
+                     984717at2   2 vaivGrpNvGKstLlnalvgekvaivskkaqttRhrirgivteeaqivfvDtPGlhkpklnealaksaledvdvv 76 
+                                   v+++G+  +GKs+L+n l++e v   s  + t ++    + +++   v++D   + k  ln+    + +++ dv 
+  DWXM01000017.1:68705-72061|+  43 VSFIGHFSAGKSSLINYLLEEDVLPSSPIPTTSKTVQIEVNNDTLARVYIDKNHFVK--LNNLSEVKDINKKDVA 115
+                                   89***********************9999999998888999999999***9875554..6665555555555555 PP
+
+  == domain 2  score: 7.3 bits;  conditional E-value: 0.0018
+                     984717at2  46 aqivfvDtPGlhkp.klnealaksaledvdvvlfvvdaeeileklk..........ktpvilvvnkiDkv 104
+                                     +vf DtPG+ ++ + +e  +++ l + d v+f v+ +++ ++ +          ++p  l+vn+iDk 
+  DWXM01000017.1:68705-72061|+ 130 DTFVFQDTPGVDSKtSAHEESTNKFLLNSDYVFFTVEYNHVESESNlsflseiasyNIPFSLIVNQIDKH 199
+                                   568********8651677888899999**********998865532111112222245677777777776 PP
+
+  == domain 3  score: 14.4 bits;  conditional E-value: 1.2e-05
+                     984717at2   2 vaivGrpNvGKstLlnalvgekvaivskkaqttRhrirgivt 43 
+                                   +++ G   +GKst++nal++ek+  +s  + t   +i+ i +
+  DWXM01000017.1:68705-72061|+ 581 ISVFGGFSAGKSTFINALLKEKLLTTSPNPTTA--SITEISN 620
+                                   67889999***************9999988664..5666655 PP
+
+  == domain 4  score: 0.6 bits;  conditional E-value: 0.2
+                     984717at2  50 fvDtPGlhkpklnealaksa...ledvdvvlfvvdaeeilekl.............kktpvilvvnkiDkveelleivpvs 114
+                                   +vD PG+ +  +n++ ++++   +++ d++++v   ++++++              k+ p+++++n +D +++ +ei  v 
+  DWXM01000017.1:68705-72061|+ 724 IVDSPGINS--MNDRHTQETyhiIANSDLIIYVSYFNHVFTESdaqflkyiqsikgKEFPLTIIINAVDLAKDTTEIEDVK 802
+                                   678888765..4444444431115677777777666665544300000000111112345555666666665555555555 PP
+
+  == domain 5  score: -2.6 bits;  conditional E-value: 1.8
+                     984717at2  125 pypedqltdeserflvaelirekilelkeEl 155 
+                                     + ++++ + ++++     +r++il+l++E+
+  DWXM01000017.1:68705-72061|+ 1016 LFIKEKVKQLEKKTKTHKQLRDNILKLSKEI 1046
+                                    3556666666667777777777777777776 PP
+
+>> DWXM01000088.1:44802-45905|+  DWXM01000088.1_47 # 44802 # 45905 # 1 # ID=77_47;partial=00;start_type=ATG;rbs_motif=GG
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    4.8   0.1      0.01       1.4      88     123 ..      92     127 ..      60     150 .. 0.81
+   2 !   31.6   0.2   6.5e-11     9e-09       2      94 ..     162     255 ..     161     268 .. 0.67
+
+  Alignments for each domain:
+  == domain 1  score: 4.8 bits;  conditional E-value: 0.01
+                     984717at2  88 klkktpvilvvnkiDkveelleivpvsanveellpe 123
+                                    + +++vi++vnkiD + + ++i  +  +++++l +
+  DWXM01000088.1:44802-45905|+  92 IVGNKKVIVAVNKIDLLPKSTNISRLLNRLKKMLRD 127
+                                   456789***********9999999999999888865 PP
+
+  == domain 2  score: 31.6 bits;  conditional E-value: 6.5e-11
+                     984717at2   2 vaivGrpNvGKstLlnalv....gekvaiv.skkaqttRhrirgivteeaqivfvDtPGlhkp.klnealaksaledvdvv 76 
+                                   v +vG +NvGKstL+n+l+    gek  i+ s+ + tt   i  i   e q++  DtPG+  + ++ ++l   +l+dv  +
+  DWXM01000088.1:44802-45905|+ 162 VYVVGTTNVGKSTLINKLIeattGEKEVITtSNIPGTTLGMID-IPLGEDQFM-YDTPGVIAKsQMSNIL---SLDDVKYI 237
+                                   679***************9555556655651566666666665.666678886.5****87641555555...56666666 PP
+
+                     984717at2  77 lfvvdaeeileklkktpv 94 
+                                   +   + + ++ +l++ ++
+  DWXM01000088.1:44802-45905|+ 238 MPKKEIKPLTYQLDEGQT 255
+                                   666666666666665555 PP
+
+>> DWXM01000071.1:34511-35098|-  DWXM01000071.1_29 # 34511 # 35098 # -1 # ID=55_29;partial=00;start_type=ATG;rbs_motif=G
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.3   0.0   9.9e-12   1.4e-09       2      57 ..      28      82 ..      27     113 .. 0.87
+   2 ?    0.6   0.1       0.2        28      86     110 ..     132     157 ..     121     188 .. 0.65
+
+  Alignments for each domain:
+  == domain 1  score: 34.3 bits;  conditional E-value: 9.9e-12
+                     984717at2  2 vaivGrpNvGKstLlnalvgek.vaivskkaqttRhrirgivteeaqivfvDtPGlh 57
+                                  va+ Gr NvGKs+++na+ g+k +a +s+k+  t       ++ + q+vfvD PG  
+  DWXM01000071.1:34511-35098|- 28 VAMAGRSNVGKSSFINAITGRKnIARISSKPGKTV--TLNFYNADDQFVFVDVPGYG 82
+                                  899*****************8779*******9875..467788899*********75 PP
+
+  == domain 2  score: 0.6 bits;  conditional E-value: 0.2
+                     984717at2  86 leklkktpvilvvnkiDkv..eellei 110
+                                   l++l+ +++i+v +k Dk+  ++l + 
+  DWXM01000071.1:34511-35098|- 132 LKQLD-IKTIIVATKSDKIskSRLQKH 157
+                                   45555.667777777777732233333 PP
+
+>> DWXM01000088.1:5894-7174|+  DWXM01000088.1_11 # 5894 # 7174 # 1 # ID=77_11;partial=00;start_type=ATG;rbs_motif=GGAGG;
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.9   0.0   1.2e-07   1.7e-05       2      85 ..     161     245 ..     160     262 .. 0.78
+   2 ?    0.8   0.0      0.17        23      79     110 ..     261     292 ..     240     310 .. 0.76
+
+  Alignments for each domain:
+  == domain 1  score: 20.9 bits;  conditional E-value: 1.2e-07
+                   984717at2   2 vaivGrpNvGKstLlnalvgekvaivskkaqttRhrirgivteeaqivfvDtPGlhkpkl.nealaksaledvdvvlfvvdae 83 
+                                 v ++G p vGKstLl ++  +   i s    t + ++  +++ ++ +v+ D PGl + +  ++ l  + l++v+   ++v++ 
+  DWXM01000088.1:5894-7174|+ 161 VGLIGFPSVGKSTLLSRVSRATPKIASYPFTTIQPNLGVVIQGDKSFVMADLPGLIEGAAeGTGLGIQFLRHVERTKVLVHVI 243
+                                 789**************999999999988888888888888999**********99866514557777766666555555555 PP
+
+                   984717at2  84 ei 85 
+                                 +i
+  DWXM01000088.1:5894-7174|+ 244 DI 245
+                                 44 PP
+
+  == domain 2  score: 0.8 bits;  conditional E-value: 0.17
+                   984717at2  79 vvdaeeileklkktpvilvvnkiDkveellei 110
+                                   + +e  ekl ++p i+++nki+ +e+  +i
+  DWXM01000088.1:5894-7174|+ 261 RKELKEYNEKLLNRPEIIALNKIELLENRENI 292
+                                 4566778899999**********999876665 PP
+
+>> DWXM01000047.1:65-2173|+  DWXM01000047.1_1 # 65 # 2173 # 1 # ID=24_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spa
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -3.9   0.0       4.6   6.4e+02     184     213 ..      23      52 ..      21      60 .. 0.76
+   2 !   17.7   0.1   1.2e-06   0.00016       2     105 ..     208     318 ..     207     338 .. 0.72
+
+  Alignments for each domain:
+  == domain 1  score: -3.9 bits;  conditional E-value: 4.6
+                 984717at2 184 klkkigtearkelekllgkkvfLlwvkvkk 213
+                               +lk+ g++  +++++l ++ v Ll  k  k
+  DWXM01000047.1:65-2173|+  23 ALKDNGKDYNSHMQSLNDDDVKLLDSKFVK 52 
+                               578888889999999999999999877433 PP
+
+  == domain 2  score: 17.7 bits;  conditional E-value: 1.2e-06
+                 984717at2   2 vaivGrpNvGKstLlnalvgekvaivskkaqttRhrirgivteeaqivfvDtPGlhkpklnealaksaledvdvvlfvvdae... 83 
+                               v+i+G+   GK+tLl+++ ++ v+       t       i+ +++ i f+DtPG       +++  ++++  d+ ++vv a+   
+  DWXM01000047.1:65-2173|+ 208 VTIMGHVDHGKTTLLDSIRNANVTGGEAGGITQHIGAYQIHWNDKDITFLDTPGHEAF---TTMRARGAQVTDLTVLVVAADdgv 289
+                               89*****************99998877777777778889***************7664...566677777777777776655222 PP
+
+                 984717at2  84 ..eilekl.....kktpvilvvnkiDkve 105
+                                 + +e+l     + tp+i++vnk+Dk +
+  DWXM01000047.1:65-2173|+ 290 mpQTIEALnhakaAGTPIIVAVNKVDKPT 318
+                               2223333311111458999*******875 PP
+
+>> DWXM01000007.1:31476-32576|-  DWXM01000007.1_37 # 31476 # 32576 # -1 # ID=31_37;partial=00;start_type=ATG;rbs_motif=A
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.7   0.1   4.7e-06   0.00066       3      21 ..       6      24 ..       4      44 .. 0.89
+   2 ?    3.4   4.9     0.028       3.9      42     174 ..     126     256 ..     109     273 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 15.7 bits;  conditional E-value: 4.7e-06
+                     984717at2  3 aivGrpNvGKstLlnalvg 21
+                                   ivG pNvGKstL na+ +
+  DWXM01000007.1:31476-32576|-  6 GIVGLPNVGKSTLFNAITK 24
+                                  69*************9865 PP
+
+  == domain 2  score: 3.4 bits;  conditional E-value: 0.028
+                     984717at2  42 vteeaqivfvDtPGlhkpklnealaksaledvdvvlfvvdaeeileklkktpvilvvnkiDkveelleivpvsanveellp 122
+                                      ++ ++f D   + + +l ++  ++  +d d+++     ++i ++l++ + +  v+ +D  +++++ + + ++ + ++ 
+  DWXM01000007.1:31476-32576|- 126 EVINMELIFADLESIER-RLPRVEKMARQKDKDAMFETDTLTKIKNTLEENKPVRSVSLTDDEKAVVKHLNFLTQ-KPIIY 204
+                                   44456789999988877.5777777777789999999999999********************999999998876.67888 PP
+
+                     984717at2 123 egpypedqltdeserflvaelirekilelkeElPysvaveieeilverdsqk 174
+                                     +  ed+ltd +++ +++ ++  +  e  + +P s++ve e  ++e + ++
+  DWXM01000007.1:31476-32576|- 205 VANVAEDELTDLENNEYLKQVTEYAEAEGAQVVPVSAKVEEEMAVLEDEDKQ 256
+                                   8999******************99999************9888777766655 PP
+
+>> DWXM01000072.1:8097-8960|+  DWXM01000072.1_7 # 8097 # 8960 # 1 # ID=56_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rb
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.3   0.1     0.058         8      60     108 ..      73     122 ..      66     147 .. 0.84
+   2 !   12.7   0.0   4.1e-05    0.0056       4      58 ..     158     216 ..     155     224 .. 0.68
+
+  Alignments for each domain:
+  == domain 1  score: 2.3 bits;  conditional E-value: 0.058
+                   984717at2  60 klnealaksaledvdvvlfvvdaeeileklkktpvilvvnkiDkv.eell 108
+                                 ++++ l++ ++++ +  ++++d    +++ + +  +l+++kiD   +e+l
+  DWXM01000072.1:8097-8960|+  73 NVDQLLITMSIKNPNFSFYLMDRFIAYSESHGIDPVLIITKIDLNsDEVL 122
+                                 56788889999999999999999988889999999999999998765554 PP
+
+  == domain 2  score: 12.7 bits;  conditional E-value: 4.1e-05
+                   984717at2   4 ivGrpNvGKstLlnalvge...kvaivskkaqttRhrirgivt.eeaqivfvDtPGlhk 58 
+                                 + G++ vGKstLln+l+ e       +s+k +  +h+ r +   +++   + DtPG+ +
+  DWXM01000072.1:8097-8960|+ 158 LAGQTGVGKSTLLNTLLPElnlETNEISDKLNRGKHTTRHVELvDKNGGEIADTPGFST 216
+                                 6799************8653224566777766555555555331334556789999875 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (224 nodes)
+Target sequences:                       1530  (427660 residues searched)
+Passed MSV filter:                       111  (0.072549); expected 30.6 (0.02)
+Passed bias filter:                       68  (0.0444444); expected 30.6 (0.02)
+Passed Vit filter:                        21  (0.0137255); expected 1.5 (0.001)
+Passed Fwd filter:                        11  (0.00718954); expected 0.0 (1e-05)
+Initial search space (Z):               1530  [actual number of targets]
+Domain search space  (domZ):              11  [number of targets reported over threshold]
+# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.04
+# Mc/sec: 2364.47
+//
+[ok]

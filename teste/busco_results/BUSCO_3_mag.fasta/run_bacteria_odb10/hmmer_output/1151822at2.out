@@ -1,0 +1,17 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_4572_length_1004_cov_2.066386:237-1004|-  -            256 1151822at2           -            254   3.1e-68  226.6  29.5   1   2   3.9e-09   3.7e-06   23.2   4.6    53   103     7    63     1    72 0.77 NODE_4572_length_1004_cov_2.066386_2 # 237 # 1004 # -1 # ID=678_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.339
+NODE_4572_length_1004_cov_2.066386:237-1004|-  -            256 1151822at2           -            254   3.1e-68  226.6  29.5   2   2   5.1e-66   4.8e-63  209.6  17.0    95   252    83   251    75   253 0.93 NODE_4572_length_1004_cov_2.066386_2 # 237 # 1004 # -1 # ID=678_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.339
+NODE_2103_length_1751_cov_5.169222:1065-1751|+ -            229 1151822at2           -            254   1.8e-36  122.5  28.6   1   2   1.9e-12   1.8e-09   34.1   4.0     6   105     6   113     1   119 0.83 NODE_2103_length_1751_cov_5.169222_2 # 1065 # 1751 # 1 # ID=316_2;partial=01;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.416
+NODE_2103_length_1751_cov_5.169222:1065-1751|+ -            229 1151822at2           -            254   1.8e-36  122.5  28.6   2   2   8.8e-31   8.3e-28   94.1  17.3    89   185   122   224   115   227 0.88 NODE_2103_length_1751_cov_5.169222_2 # 1065 # 1751 # 1 # ID=316_2;partial=01;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.416
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1151822at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_mag.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_mag.fasta/run_bacteria_odb10/hmmer_output/1151822at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1151822at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_mag.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:18:19 2026
+# [ok]

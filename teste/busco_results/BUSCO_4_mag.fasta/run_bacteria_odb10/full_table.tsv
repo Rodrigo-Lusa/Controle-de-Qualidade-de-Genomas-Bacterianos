@@ -1,0 +1,127 @@
+# BUSCO version is: 6.1.0 
+# The lineage dataset is: bacteria_odb10 (Creation date: 2024-01-08, number of genomes: 4085, number of BUSCOs: 124)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+4421at2	Fragmented	NODE_559_length_4153_cov_4.476086	2389	4152	+	1020.4	531	https://v10-1.orthodb.org/?query=4421at2	DNA-directed RNA polymerase subunit beta'
+9601at2	Fragmented	NODE_559_length_4153_cov_4.476086	1	2334	+	1108.6	620	https://v10-1.orthodb.org/?query=9601at2	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+26038at2	Fragmented	NODE_4183_length_1063_cov_2.384921	153	1061	+	35.6	30	https://v10-1.orthodb.org/?query=26038at2	PurM-like, C-terminal domain
+91428at2	Fragmented	NODE_1848_length_1909_cov_4.261057	333	1907	+	385.3	348	https://v10-1.orthodb.org/?query=91428at2	Alanine--tRNA ligase
+95696at2	Missing
+143460at2	Complete	NODE_762_length_3417_cov_3.265913	1344	3170	+	529.5	439	https://v10-1.orthodb.org/?query=143460at2	GTP-binding protein
+182107at2	Complete	NODE_1785_length_1945_cov_4.358201	109	1908	+	713.7	490	https://v10-1.orthodb.org/?query=182107at2	Elongation factor 4
+219876at2	Fragmented	NODE_1840_length_1917_cov_1.920516	1712	798	-	220.2	154	https://v10-1.orthodb.org/?query=219876at2	Chromosomal replication initiator protein DnaA
+223233at2	Fragmented	NODE_2348_length_1613_cov_3.516046	1023	1613	+	259.5	169	https://v10-1.orthodb.org/?query=223233at2	DNA topoisomerase, type IA
+226836at2	Missing
+232152at2	Missing
+267682at2	Complete	NODE_1674_length_2042_cov_2.755410	169	1521	+	256.0	264	https://v10-1.orthodb.org/?query=267682at2	Amidophosphoribosyltransferase
+353391at2	Complete	NODE_3498_length_1215_cov_5.248276	1213	2	-	405.2	314	https://v10-1.orthodb.org/?query=353391at2	Serine--tRNA ligase
+384865at2	Complete	NODE_1846_length_1912_cov_4.057081	984	1691	+	161.1	168	https://v10-1.orthodb.org/?query=384865at2	Transcription termination/antitermination protein NusA
+402899at2	Missing
+430176at2	Complete	NODE_701_length_3662_cov_4.891600	2138	3532	+	586.2	360	https://v10-1.orthodb.org/?query=430176at2	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+462069at2	Missing
+469058at2	Fragmented	NODE_2258_length_1664_cov_3.349285	1662	730	-	345.3	270	https://v10-1.orthodb.org/?query=469058at2	Phenylalanine--tRNA ligase alpha subunit
+504464at2	Complete	NODE_826_length_3235_cov_3.321069	2515	1232	-	304.3	233	https://v10-1.orthodb.org/?query=504464at2	GMP synthase
+505485at2	Fragmented	NODE_4456_length_1021_cov_4.109731	1019	39	-	153.5	173	https://v10-1.orthodb.org/?query=505485at2	Ribosomal protein S5 domain 2-type fold
+533698at2	Complete	NODE_1175_length_2583_cov_3.450554	1001	2293	+	381.2	288	https://v10-1.orthodb.org/?query=533698at2	Enolase
+662686at2	Missing
+665824at2	Complete	NODE_3296_length_1262_cov_2.602320	1261	167	-	389.6	331	https://v10-1.orthodb.org/?query=665824at2	Proline--tRNA ligase
+761140at2	Complete	NODE_1136_length_2628_cov_3.614069	1702	92	-	197.1	310	https://v10-1.orthodb.org/?query=761140at2	Methionine--tRNA ligase
+776861at2	Missing
+837522at2	Fragmented	NODE_701_length_3662_cov_4.891600	3	1238	+	595.7	349	https://v10-1.orthodb.org/?query=837522at2	ATP synthase subunit alpha
+841869at2	Complete	NODE_463_length_4668_cov_3.800564	3801	2854	-	155.0	198	https://v10-1.orthodb.org/?query=841869at2	UDP-N-acetylenolpyruvoylglucosamine reductase
+874197at2	Complete	NODE_2537_length_1524_cov_4.202178	1094	87	-	422.4	273	https://v10-1.orthodb.org/?query=874197at2	Holliday junction ATP-dependent DNA helicase RuvB
+923547at2	Fragmented	NODE_1674_length_2042_cov_2.755410	1536	2042	+	236.0	160	https://v10-1.orthodb.org/?query=923547at2	Phosphoribosylformylglycinamidine cyclo-ligase
+932854at2	Complete	NODE_2902_length_1381_cov_2.796380	3	1379	+	659.2	441	https://v10-1.orthodb.org/?query=932854at2	Phosphoribosylamine--glycine ligase
+932993at2	Missing
+961486at2	Complete	NODE_851_length_3162_cov_4.853235	1856	2686	+	222.7	176	https://v10-1.orthodb.org/?query=961486at2	Ribosomal protein L2
+981870at2	Fragmented	NODE_3415_length_1236_cov_5.283658	1236	442	-	152.7	169	https://v10-1.orthodb.org/?query=981870at2	Chorismate synthase
+984717at2	Fragmented	NODE_3074_length_1328_cov_2.172035	1326	706	-	109.1	130	https://v10-1.orthodb.org/?query=984717at2	GTPase Era
+1009041at2	Complete	NODE_3245_length_1278_cov_2.945217	370	1224	+	255.8	209	https://v10-1.orthodb.org/?query=1009041at2	Cell division protein FtsZ
+1024388at2	Complete	NODE_1842_length_1916_cov_4.359484	182	1369	+	441.6	308	https://v10-1.orthodb.org/?query=1024388at2	S-adenosylmethionine synthetase
+1036075at2	Complete	NODE_1063_length_2744_cov_3.068799	2744	1008	-	234.6	310	https://v10-1.orthodb.org/?query=1036075at2	GIY-YIG endonuclease
+1043239at2	Complete	NODE_2973_length_1359_cov_2.460890	270	989	+	165.0	142	https://v10-1.orthodb.org/?query=1043239at2	Uridylate kinase
+1049662at2	Fragmented	NODE_2316_length_1634_cov_3.043065	1633	1010	-	242.2	185	https://v10-1.orthodb.org/?query=1049662at2	Methylglyoxal synthase-like domain
+1054741at2	Fragmented	NODE_3847_length_1132_cov_4.948932	1	1005	+	358.5	304	https://v10-1.orthodb.org/?query=1054741at2	tRNA-specific 2-thiouridylase
+1069591at2	Fragmented	NODE_3214_length_1288_cov_2.504461	408	1	-	114.7	93	https://v10-1.orthodb.org/?query=1069591at2	tRNA dimethylallyltransferase
+1074831at2	Fragmented	NODE_927_length_2988_cov_3.874190	2883	2257	-	21.1	99	https://v10-1.orthodb.org/?query=1074831at2	DNA repair protein RecN
+1080436at2	Fragmented	NODE_4482_length_1017_cov_3.798337	529	1017	+	223.2	142	https://v10-1.orthodb.org/?query=1080436at2	Protein RecA
+1093223at2	Missing
+1132353at2	Complete	NODE_1132_length_2634_cov_2.747964	2632	2075	-	164.5	131	https://v10-1.orthodb.org/?query=1132353at2	K Homology domain
+1151822at2	Fragmented	NODE_3543_length_1204_cov_3.688425	3	701	+	224.3	182	https://v10-1.orthodb.org/?query=1151822at2	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+1166299at2	Missing
+1211060at2	Missing
+1257362at2	Complete	NODE_572_length_4098_cov_2.565916	627	1649	+	238.4	233	https://v10-1.orthodb.org/?query=1257362at2	tRNA N6-adenosine threonylcarbamoyltransferase
+1266295at2	Missing
+1270636at2	Complete	NODE_851_length_3162_cov_4.853235	254	886	+	169.2	161	https://v10-1.orthodb.org/?query=1270636at2	Ribosomal protein L3
+1272633at2	Complete	NODE_4020_length_1096_cov_5.471662	106	1038	+	135.8	151	https://v10-1.orthodb.org/?query=1272633at2	S-adenosyl-L-methionine-dependent methyltransferase
+1346419at2	Complete	NODE_2071_length_1767_cov_4.624416	1653	457	-	331.5	290	https://v10-1.orthodb.org/?query=1346419at2	Flavoprotein
+1395197at2	Complete	NODE_2001_length_1799_cov_3.801606	935	1798	+	120.6	134	https://v10-1.orthodb.org/?query=1395197at2	Peptidase M50
+1398618at2	Complete	NODE_2967_length_1361_cov_2.859112	987	448	-	141.0	130	https://v10-1.orthodb.org/?query=1398618at2	Ribosomal protein L6, alpha-beta domain
+1419877at2	Missing
+1456375at2	Fragmented	NODE_1132_length_2634_cov_2.747964	387	1	-	142.3	100	https://v10-1.orthodb.org/?query=1456375at2	Ribosomal protein L5
+1470978at2	Complete	NODE_1686_length_2031_cov_2.459008	798	1334	+	94.4	105	https://v10-1.orthodb.org/?query=1470978at2	Ribosomal protein L10
+1490892at2	Missing
+1491686at2	Complete	NODE_2986_length_1356_cov_3.448885	1252	611	-	143.0	130	https://v10-1.orthodb.org/?query=1491686at2	Adenylate kinase
+1497415at2	Complete	NODE_2550_length_1519_cov_3.015027	1351	848	-	30.4	39	https://v10-1.orthodb.org/?query=1497415at2	Ribosome maturation factor RimM
+1502854at2	Fragmented	NODE_4202_length_1060_cov_2.441791	455	3	-	221.0	151	https://v10-1.orthodb.org/?query=1502854at2	Guanylate kinase
+1504821at2	Missing
+1505038at2	Missing
+1540940at2	Complete	NODE_3050_length_1336_cov_2.928181	590	1060	+	200.0	134	https://v10-1.orthodb.org/?query=1540940at2	Ribosomal protein S7 domain
+1567535at2	Fragmented	NODE_2524_length_1530_cov_3.659661	596	1528	+	225.8	203	https://v10-1.orthodb.org/?query=1567535at2	Protein translocase subunit SecY
+1572673at2	Complete	NODE_851_length_3162_cov_4.853235	911	1534	+	132.7	103	https://v10-1.orthodb.org/?query=1572673at2	50S ribosomal protein L4
+1574817at2	Complete	NODE_2822_length_1410_cov_2.118819	839	435	-	131.1	139	https://v10-1.orthodb.org/?query=1574817at2	Transcription antitermination protein NusB
+1590629at2	Missing
+1592033at2	Missing
+1595498at2	Complete	NODE_1846_length_1912_cov_4.057081	160	624	+	44.5	38	https://v10-1.orthodb.org/?query=1595498at2	Ribosome maturation factor RimP
+1623045at2	Complete	NODE_3747_length_1157_cov_2.935572	344	1051	+	275.9	188	https://v10-1.orthodb.org/?query=1623045at2	Ribosomal protein S2
+1661836at2	Complete	NODE_1307_length_2408_cov_3.165321	1030	1629	+	173.6	151	https://v10-1.orthodb.org/?query=1661836at2	Recombination protein RecR
+1666043at2	Missing
+1671455at2	Complete	NODE_1686_length_2031_cov_2.459008	1	618	+	213.1	162	https://v10-1.orthodb.org/?query=1671455at2	Ribosomal protein L1
+1674344at2	Fragmented	NODE_2973_length_1359_cov_2.460890	994	1359	+	112.1	99	https://v10-1.orthodb.org/?query=1674344at2	Ribosome recycling factor
+1676462at2	Complete	NODE_3040_length_1339_cov_3.767134	970	413	-	124.6	102	https://v10-1.orthodb.org/?query=1676462at2	Peptidyl-tRNA hydrolase
+1692188at2	Complete	NODE_2967_length_1361_cov_2.859112	1361	1026	-	149.3	110	https://v10-1.orthodb.org/?query=1692188at2	Ribosomal protein S8
+1698718at2	Missing
+1701531at2	Complete	NODE_701_length_3662_cov_4.891600	1262	2119	+	170.8	143	https://v10-1.orthodb.org/?query=1701531at2	ATP synthase, F1 complex, gamma subunit
+1702697at2	Missing
+1707228at2	Complete	NODE_3050_length_1336_cov_2.928181	48	464	+	173.0	101	https://v10-1.orthodb.org/?query=1707228at2	Ribosomal protein S12, bacterial-type
+1713391at2	Missing
+1720952at2	Complete	NODE_1876_length_1892_cov_2.163854	1444	1881	+	180.7	133	https://v10-1.orthodb.org/?query=1720952at2	SsrA-binding protein
+1758685at2	Complete	NODE_3074_length_1328_cov_2.172035	689	3	-	45.8	81	https://v10-1.orthodb.org/?query=1758685at2	DNA repair protein RecO
+1760144at2	Complete	NODE_2702_length_1455_cov_3.807143	923	1453	+	93.7	85	https://v10-1.orthodb.org/?query=1760144at2	Translation initiation factor 3, C-terminal
+1766414at2	Complete	NODE_3403_length_1239_cov_3.451858	406	23	-	111.6	96	https://v10-1.orthodb.org/?query=1766414at2	Ribosomal protein S9
+1772647at2	Missing
+1776954at2	Complete	NODE_2117_length_1741_cov_3.490510	1001	717	-	53.5	71	https://v10-1.orthodb.org/?query=1776954at2	Ribosomal protein S6
+1786618at2	Complete	NODE_1132_length_2634_cov_2.747964	2041	1598	-	160.2	104	https://v10-1.orthodb.org/?query=1786618at2	Ribosomal protein L16
+1799923at2	Complete	NODE_1132_length_2634_cov_2.747964	1112	744	-	135.7	104	https://v10-1.orthodb.org/?query=1799923at2	Ribosomal protein L14P
+1822215at2	Complete	NODE_3403_length_1239_cov_3.451858	859	431	-	156.8	112	https://v10-1.orthodb.org/?query=1822215at2	Ribosomal protein L13
+1822695at2	Complete	NODE_1686_length_2031_cov_2.459008	1368	1751	+	91.2	86	https://v10-1.orthodb.org/?query=1822695at2	Ribosomal protein L7/L12
+1827295at2	Missing
+1827334at2	Missing
+1830156at2	Missing
+1838961at2	Complete	NODE_754_length_3438_cov_4.365947	3362	3021	-	96.0	82	https://v10-1.orthodb.org/?query=1838961at2	Ribosomal protein L17
+1842956at2	Missing
+1844275at2	Complete	NODE_2844_length_1402_cov_1.614699	1317	394	-	159.7	172	https://v10-1.orthodb.org/?query=1844275at2	Aspartate carbamoyltransferase
+1846503at2	Missing
+1874945at2	Complete	NODE_2524_length_1530_cov_3.659661	152	595	+	77.0	83	https://v10-1.orthodb.org/?query=1874945at2	Ribosomal protein L15
+1890943at2	Complete	NODE_1766_length_1959_cov_3.060399	1231	512	-	72.1	90	https://v10-1.orthodb.org/?query=1890943at2	ribonuclease III
+1893906at2	Complete	NODE_851_length_3162_cov_4.853235	2719	3003	+	135.0	71	https://v10-1.orthodb.org/?query=1893906at2	Ribosomal protein S19, bacterial-type
+1904463at2	Complete	NODE_1439_length_2247_cov_2.113595	975	1265	+	109.6	67	https://v10-1.orthodb.org/?query=1904463at2	Ribosomal protein L27
+1906715at2	Complete	NODE_1663_length_2052_cov_3.418127	174	728	+	59.2	70	https://v10-1.orthodb.org/?query=1906715at2	Protein GrpE
+1932144at2	Complete	NODE_1131_length_2636_cov_3.689268	2377	2027	-	115.8	93	https://v10-1.orthodb.org/?query=1932144at2	Ribosomal protein L20
+1937072at2	Complete	NODE_2751_length_1438_cov_2.921909	470	198	-	117.8	70	https://v10-1.orthodb.org/?query=1937072at2	Ribosomal protein S16
+1937493at2	Missing
+1940575at2	Complete	NODE_2117_length_1741_cov_3.490510	246	19	-	89.3	47	https://v10-1.orthodb.org/?query=1940575at2	Ribosomal protein S18
+1949059at2	Complete	NODE_1439_length_2247_cov_2.113595	306	617	+	142.8	99	https://v10-1.orthodb.org/?query=1949059at2	Ribosomal protein L21
+1959318at2	Complete	NODE_404_length_5135_cov_3.595079	2143	2592	+	80.5	89	https://v10-1.orthodb.org/?query=1959318at2	Ribosomal protein L9
+1963491at2	Complete	NODE_2967_length_1361_cov_2.859112	432	64	-	148.6	103	https://v10-1.orthodb.org/?query=1963491at2	Ribosomal protein L18
+1971380at2	Complete	NODE_2750_length_1438_cov_3.900940	374	745	+	125.8	117	https://v10-1.orthodb.org/?query=1971380at2	Ribosome-binding factor A
+1978865at2	Complete	NODE_851_length_3162_cov_4.853235	1534	1827	+	111.6	89	https://v10-1.orthodb.org/?query=1978865at2	Ribosomal protein L25/L23
+1990141at2	Fragmented	NODE_1254_length_2480_cov_4.307216	2480	2277	-	106.9	63	https://v10-1.orthodb.org/?query=1990141at2	Ribosomal protein S15
+1990650at2	Missing
+2005443at2	Missing
+2012682at2	Fragmented	NODE_851_length_3162_cov_4.853235	3	197	+	80.3	54	https://v10-1.orthodb.org/?query=2012682at2	Ribosomal protein S10
+2035880at2	Complete	NODE_1132_length_2634_cov_2.747964	1395	1141	-	92.4	57	https://v10-1.orthodb.org/?query=2035880at2	Ribosomal protein S17/S11
+2040741at2	Complete	NODE_1132_length_2634_cov_2.747964	728	417	-	57.7	54	https://v10-1.orthodb.org/?query=2040741at2	Ribosomal protein L24
+2046660at2	Complete	NODE_1131_length_2636_cov_3.689268	2608	2414	-	31.0	28	https://v10-1.orthodb.org/?query=2046660at2	Ribosomal protein L35
+2063644at2	Complete	NODE_1132_length_2634_cov_2.747964	1608	1402	-	51.5	35	https://v10-1.orthodb.org/?query=2063644at2	Ribosomal protein L29/L35
+2066663at2	Complete	NODE_2986_length_1356_cov_3.448885	218	21	-	69.2	51	https://v10-1.orthodb.org/?query=2066663at2	Translation initiation factor IF-1
+2075502at2	Complete	NODE_3024_length_1343_cov_3.819099	743	1156	+	44.5	64	https://v10-1.orthodb.org/?query=2075502at2	YqgF/RNase H-like domain

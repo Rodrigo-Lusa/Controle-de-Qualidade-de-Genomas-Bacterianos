@@ -1,0 +1,106 @@
+/home/rodrigo.lusa/.conda/envs/quast_env/bin/quast fastas/1_genome.fasta fastas/1_mag.fasta fastas/2_genome.fasta fastas/2_mag.fasta fastas/3_genome.fasta fastas/3_mag.fasta fastas/4_genome.fasta fastas/4_mag.fasta -t 32 -o results/quast_out
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.15.0-168-generic-x86_64-with-debian-bullseye-sid (linux_64)
+  Python version: 3.6.15
+  CPUs number: 192
+
+Started: 2026-07-20 11:15:05
+
+Logging to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/quast.log
+
+CWD: /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+Main parameters: 
+  MODE: default, threads: 32, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  1  fastas/1_genome.fasta ==> 1_genome
+  2  fastas/1_mag.fasta ==> 1_mag
+  3  fastas/2_genome.fasta ==> 2_genome
+  4  fastas/2_mag.fasta ==> 2_mag
+  5  fastas/3_genome.fasta ==> 3_genome
+  6  fastas/3_mag.fasta ==> 3_mag
+  7  fastas/4_genome.fasta ==> 4_genome
+  8  fastas/4_mag.fasta ==> 4_mag
+
+2026-07-20 11:15:09
+Running Basic statistics processor...
+  Contig files: 
+    1  1_genome
+    2  1_mag
+    3  2_genome
+    4  2_mag
+    5  3_genome
+    6  3_mag
+    7  4_genome
+    8  4_mag
+  Calculating N50 and L50...
+    1  1_genome, N50 = 107917, L50 = 9, Total length = 2676116, GC % = 39.00, # N's per 100 kbp =  0.00
+    2  1_mag, N50 = 153182, L50 = 6, Total length = 2646940, GC % = 39.03, # N's per 100 kbp =  56.67
+    3  2_genome, N50 = 23330, L50 = 17, Total length = 1390020, GC % = 34.55, # N's per 100 kbp =  0.00
+    4  2_mag, N50 = 4273, L50 = 101, Total length = 1380214, GC % = 34.75, # N's per 100 kbp =  5.07
+    5  3_genome, N50 = 6256, L50 = 60, Total length = 1054269, GC % = 39.90, # N's per 100 kbp =  0.00
+    6  3_mag, N50 = 2192, L50 = 209, Total length = 1376375, GC % = 40.67, # N's per 100 kbp =  7.27
+    7  4_genome, N50 = 139128, L50 = 7, Total length = 2465291, GC % = 29.94, # N's per 100 kbp =  0.00
+    8  4_mag, N50 = 1756, L50 = 241, Total length = 1179117, GC % = 30.94, # N's per 100 kbp =  2.54
+  Drawing Nx plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/GC_content_plot.pdf
+  Drawing 1_genome GC content plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/1_genome_GC_content_plot.pdf
+  Drawing 1_mag GC content plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/1_mag_GC_content_plot.pdf
+  Drawing 2_genome GC content plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/2_genome_GC_content_plot.pdf
+  Drawing 2_mag GC content plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/2_mag_GC_content_plot.pdf
+  Drawing 3_genome GC content plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/3_genome_GC_content_plot.pdf
+  Drawing 3_mag GC content plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/3_mag_GC_content_plot.pdf
+  Drawing 4_genome GC content plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/4_genome_GC_content_plot.pdf
+  Drawing 4_mag GC content plot...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/4_mag_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/coverage_histogram.pdf
+  Drawing 1_mag coverage histogram (bin size: 7x)...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/1_mag_coverage_histogram.pdf
+  Drawing 2_mag coverage histogram (bin size: 1x)...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/2_mag_coverage_histogram.pdf
+  Drawing 3_mag coverage histogram (bin size: 1x)...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/3_mag_coverage_histogram.pdf
+  Drawing 4_mag coverage histogram (bin size: 1x)...
+    saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/basic_stats/4_mag_coverage_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-07-20 11:15:14
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2026-07-20 11:15:18
+RESULTS:
+  Text versions of total report are saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/report.html
+  PDF version (tables and plots) is saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/report.pdf
+  Icarus (contig browser) is saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/icarus.html
+  Log is saved to /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/results/quast_out/quast.log
+
+Finished: 2026-07-20 11:15:18
+Elapsed time: 0:00:13.340950
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

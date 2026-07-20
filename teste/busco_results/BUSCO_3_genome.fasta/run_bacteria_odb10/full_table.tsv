@@ -1,0 +1,127 @@
+# BUSCO version is: 6.1.0 
+# The lineage dataset is: bacteria_odb10 (Creation date: 2024-01-08, number of genomes: 4085, number of BUSCOs: 124)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+4421at2	Complete	JASKZX010000190.1	6794	10015	+	1566.6	952	https://v10-1.orthodb.org/?query=4421at2	DNA-directed RNA polymerase subunit beta'
+9601at2	Complete	JASKZX010000190.1	3097	6627	+	1310.3	795	https://v10-1.orthodb.org/?query=9601at2	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+26038at2	Complete	JASKZX010000101.1	3148	5367	+	326.6	402	https://v10-1.orthodb.org/?query=26038at2	PurM-like, C-terminal domain
+91428at2	Complete	JASKZX010000086.1	347	2977	+	552.9	547	https://v10-1.orthodb.org/?query=91428at2	Alanine--tRNA ligase
+95696at2	Missing
+143460at2	Complete	JASKZX010000056.1	2990	1140	-	533.9	439	https://v10-1.orthodb.org/?query=143460at2	GTP-binding protein
+182107at2	Complete	JASKZX010000159.1	5244	7070	+	747.4	492	https://v10-1.orthodb.org/?query=182107at2	Elongation factor 4
+219876at2	Missing
+223233at2	Complete	JASKZX010000061.1	5946	3862	-	537.3	480	https://v10-1.orthodb.org/?query=223233at2	DNA topoisomerase, type IA
+226836at2	Complete	JASKZX010000074.1	4797	3025	-	612.3	473	https://v10-1.orthodb.org/?query=226836at2	Aminoacyl-tRNA synthetase, class II
+232152at2	Missing
+267682at2	Complete	JASKZX010000101.1	5343	6770	+	255.4	284	https://v10-1.orthodb.org/?query=267682at2	Amidophosphoribosyltransferase
+353391at2	Missing
+384865at2	Complete	JASKZX010000144.1	3610	2387	-	193.2	215	https://v10-1.orthodb.org/?query=384865at2	Transcription termination/antitermination protein NusA
+402899at2	Complete	JASKZX010000022.1	2511	1237	-	325.5	283	https://v10-1.orthodb.org/?query=402899at2	Tyrosine--tRNA ligase
+430176at2	Complete	JASKZX010000191.1	3148	1724	-	578.1	361	https://v10-1.orthodb.org/?query=430176at2	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+462069at2	Missing
+469058at2	Complete	JASKZX010000068.1	5724	4687	-	422.2	290	https://v10-1.orthodb.org/?query=469058at2	Phenylalanine--tRNA ligase alpha subunit
+504464at2	Fragmented	JASKZX010000103.1	3691	2990	-	217.5	170	https://v10-1.orthodb.org/?query=504464at2	GMP synthase
+505485at2	Missing
+533698at2	Complete	JASKZX010000139.1	1988	693	-	384.1	285	https://v10-1.orthodb.org/?query=533698at2	Enolase
+662686at2	Complete	JASKZX010000192.1	17892	18836	+	262.3	222	https://v10-1.orthodb.org/?query=662686at2	DNA-directed RNA polymerase subunit alpha
+665824at2	Fragmented	JASKZX010000125.1	866	3	-	446.9	276	https://v10-1.orthodb.org/?query=665824at2	Proline--tRNA ligase
+761140at2	Fragmented	JASKZX010000179.1	4941	5405	+	68.9	117	https://v10-1.orthodb.org/?query=761140at2	Methionine--tRNA ligase
+776861at2	Complete	JASKZX010000053.1	2403	3074	+	265.3	204	https://v10-1.orthodb.org/?query=776861at2	Cytidylate kinase
+837522at2	Complete	JASKZX010000191.1	5639	4131	-	660.1	409	https://v10-1.orthodb.org/?query=837522at2	ATP synthase subunit alpha
+841869at2	Complete	JASKZX010000025.1	3728	2802	-	152.4	198	https://v10-1.orthodb.org/?query=841869at2	UDP-N-acetylenolpyruvoylglucosamine reductase
+874197at2	Missing
+923547at2	Complete	JASKZX010000101.1	6784	7782	+	436.8	302	https://v10-1.orthodb.org/?query=923547at2	Phosphoribosylformylglycinamidine cyclo-ligase
+932854at2	Missing
+932993at2	Complete	JASKZX010000114.1	410	1705	+	88.9	249	https://v10-1.orthodb.org/?query=932993at2	Trigger factor
+961486at2	Complete	JASKZX010000192.1	7121	7960	+	229.7	183	https://v10-1.orthodb.org/?query=961486at2	Ribosomal protein L2
+981870at2	Missing
+984717at2	Complete	JASKZX010000121.1	2791	3693	+	236.3	217	https://v10-1.orthodb.org/?query=984717at2	GTPase Era
+1009041at2	Missing
+1024388at2	Fragmented	JASKZX010000140.1	2406	2657	+	98.9	68	https://v10-1.orthodb.org/?query=1024388at2	S-adenosylmethionine synthetase
+1036075at2	Complete	JASKZX010000029.1	558	2348	+	258.4	320	https://v10-1.orthodb.org/?query=1036075at2	GIY-YIG endonuclease
+1043239at2	Complete	JASKZX010000071.1	2426	3142	+	160.0	155	https://v10-1.orthodb.org/?query=1043239at2	Uridylate kinase
+1049662at2	Missing
+1054741at2	Complete	JASKZX010000006.1	1783	2901	+	462.4	329	https://v10-1.orthodb.org/?query=1054741at2	tRNA-specific 2-thiouridylase
+1069591at2	Complete	JASKZX010000154.1	233	1150	+	159.8	180	https://v10-1.orthodb.org/?query=1069591at2	tRNA dimethylallyltransferase
+1074831at2	Complete	JASKZX010000005.1	3185	1476	-	286.1	386	https://v10-1.orthodb.org/?query=1074831at2	DNA repair protein RecN
+1080436at2	Missing
+1093223at2	Complete	JASKZX010000019.1	2027	3376	+	323.3	358	https://v10-1.orthodb.org/?query=1093223at2	Mur ligase, C-terminal
+1132353at2	Complete	JASKZX010000192.1	8667	9323	+	202.2	160	https://v10-1.orthodb.org/?query=1132353at2	K Homology domain
+1151822at2	Complete	JASKZX010000019.1	1055	2026	+	250.1	249	https://v10-1.orthodb.org/?query=1151822at2	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+1166299at2	Complete	JASKZX010000030.1	5220	4309	-	130.9	120	https://v10-1.orthodb.org/?query=1166299at2	tRNA pseudouridine synthase B
+1211060at2	Missing
+1257362at2	Complete	JASKZX010000112.1	6429	5410	-	239.7	235	https://v10-1.orthodb.org/?query=1257362at2	tRNA N6-adenosine threonylcarbamoyltransferase
+1266295at2	Missing
+1270636at2	Complete	JASKZX010000192.1	5528	6151	+	172.2	160	https://v10-1.orthodb.org/?query=1270636at2	Ribosomal protein L3
+1272633at2	Missing
+1346419at2	Complete	JASKZX010000079.1	1093	2295	+	349.6	295	https://v10-1.orthodb.org/?query=1346419at2	Flavoprotein
+1395197at2	Complete	JASKZX010000125.1	2234	975	-	131.9	157	https://v10-1.orthodb.org/?query=1395197at2	Peptidase M50
+1398618at2	Complete	JASKZX010000192.1	12228	12767	+	140.3	130	https://v10-1.orthodb.org/?query=1398618at2	Ribosomal protein L6, alpha-beta domain
+1419877at2	Complete	JASKZX010000053.1	6446	7474	+	279.6	259	https://v10-1.orthodb.org/?query=1419877at2	glycerol-3-phosphate dehydrogenase
+1456375at2	Complete	JASKZX010000192.1	11022	11561	+	231.7	142	https://v10-1.orthodb.org/?query=1456375at2	Ribosomal protein L5
+1470978at2	Complete	JASKZX010000190.1	1699	2211	+	104.7	108	https://v10-1.orthodb.org/?query=1470978at2	Ribosomal protein L10
+1490892at2	Complete	JASKZX010000169.1	3540	2803	-	57.1	88	https://v10-1.orthodb.org/?query=1490892at2	16S rRNA (uracil(1498)-N(3))-methyltransferase
+1491686at2	Complete	JASKZX010000192.1	15695	16342	+	140.9	130	https://v10-1.orthodb.org/?query=1491686at2	Adenylate kinase
+1497415at2	Complete	JASKZX010000011.1	251	3	-	29.9	39	https://v10-1.orthodb.org/?query=1497415at2	Ribosome maturation factor RimM
+1502854at2	Complete	JASKZX010000079.1	181	798	+	246.8	189	https://v10-1.orthodb.org/?query=1502854at2	Guanylate kinase
+1504821at2	Complete	JASKZX010000030.1	4293	3358	-	184.3	222	https://v10-1.orthodb.org/?query=1504821at2	Riboflavin kinase
+1505038at2	Complete	JASKZX010000192.1	13186	13689	+	225.6	149	https://v10-1.orthodb.org/?query=1505038at2	Ribosomal protein S5
+1540940at2	Complete	JASKZX010000192.1	830	1300	+	199.5	133	https://v10-1.orthodb.org/?query=1540940at2	Ribosomal protein S7 domain
+1567535at2	Complete	JASKZX010000192.1	14361	15656	+	320.4	296	https://v10-1.orthodb.org/?query=1567535at2	Protein translocase subunit SecY
+1572673at2	Complete	JASKZX010000192.1	6173	6796	+	132.3	104	https://v10-1.orthodb.org/?query=1572673at2	50S ribosomal protein L4
+1574817at2	Complete	JASKZX010000005.1	9515	9144	-	140.1	135	https://v10-1.orthodb.org/?query=1574817at2	Transcription antitermination protein NusB
+1590629at2	Missing
+1592033at2	Complete	JASKZX010000064.1	7373	6108	-	477.3	375	https://v10-1.orthodb.org/?query=1592033at2	GTPase HflX
+1595498at2	Complete	JASKZX010000144.1	4111	3641	-	39.2	51	https://v10-1.orthodb.org/?query=1595498at2	Ribosome maturation factor RimP
+1623045at2	Complete	JASKZX010000071.1	586	1335	+	275.2	188	https://v10-1.orthodb.org/?query=1623045at2	Ribosomal protein S2
+1661836at2	Missing
+1666043at2	Complete	JASKZX010000192.1	8319	8663	+	119.3	85	https://v10-1.orthodb.org/?query=1666043at2	Ribosomal protein L22/L17
+1671455at2	Complete	JASKZX010000190.1	787	1485	+	207.7	165	https://v10-1.orthodb.org/?query=1671455at2	Ribosomal protein L1
+1674344at2	Complete	JASKZX010000071.1	3159	3716	+	156.2	135	https://v10-1.orthodb.org/?query=1674344at2	Ribosome recycling factor
+1676462at2	Complete	JASKZX010000188.1	938	378	-	133.2	104	https://v10-1.orthodb.org/?query=1676462at2	Peptidyl-tRNA hydrolase
+1692188at2	Complete	JASKZX010000192.1	11798	12196	+	193.3	131	https://v10-1.orthodb.org/?query=1692188at2	Ribosomal protein S8
+1698718at2	Complete	JASKZX010000153.1	1968	1615	-	125.0	90	https://v10-1.orthodb.org/?query=1698718at2	Ribosomal protein L19
+1701531at2	Complete	JASKZX010000191.1	4048	3188	-	173.9	146	https://v10-1.orthodb.org/?query=1701531at2	ATP synthase, F1 complex, gamma subunit
+1702697at2	Complete	JASKZX010000190.1	254	676	+	134.7	105	https://v10-1.orthodb.org/?query=1702697at2	Ribosomal protein L11, C-terminal
+1707228at2	Complete	JASKZX010000192.1	366	779	+	170.6	101	https://v10-1.orthodb.org/?query=1707228at2	Ribosomal protein S12, bacterial-type
+1713391at2	Complete	JASKZX010000192.1	17384	17773	+	157.4	97	https://v10-1.orthodb.org/?query=1713391at2	Ribosomal protein S11
+1720952at2	Complete	JASKZX010000168.1	933	466	-	203.2	144	https://v10-1.orthodb.org/?query=1720952at2	SsrA-binding protein
+1758685at2	Missing
+1760144at2	Complete	JASKZX010000032.1	2137	1496	-	92.8	95	https://v10-1.orthodb.org/?query=1760144at2	Translation initiation factor 3, C-terminal
+1766414at2	Complete	JASKZX010000048.1	1538	1146	-	113.2	99	https://v10-1.orthodb.org/?query=1766414at2	Ribosomal protein S9
+1772647at2	Complete	JASKZX010000192.1	17007	17360	+	140.2	95	https://v10-1.orthodb.org/?query=1772647at2	Ribosomal protein S13
+1776954at2	Complete	JASKZX010000046.1	2914	2627	-	53.4	70	https://v10-1.orthodb.org/?query=1776954at2	Ribosomal protein S6
+1786618at2	Complete	JASKZX010000192.1	9325	9759	+	157.3	107	https://v10-1.orthodb.org/?query=1786618at2	Ribosomal protein L16
+1799923at2	Complete	JASKZX010000192.1	10275	10643	+	133.3	104	https://v10-1.orthodb.org/?query=1799923at2	Ribosomal protein L14P
+1822215at2	Complete	JASKZX010000048.1	1994	1557	-	158.5	112	https://v10-1.orthodb.org/?query=1822215at2	Ribosomal protein L13
+1822695at2	Complete	JASKZX010000190.1	2284	2646	+	89.9	89	https://v10-1.orthodb.org/?query=1822695at2	Ribosomal protein L7/L12
+1827295at2	Complete	JASKZX010000112.1	8006	7548	-	69.4	73	https://v10-1.orthodb.org/?query=1827295at2	tRNA threonylcarbamoyl adenosine modification protein TsaE
+1827334at2	Missing
+1830156at2	Complete	JASKZX010000121.1	1575	2048	+	84.3	71	https://v10-1.orthodb.org/?query=1830156at2	Endoribonuclease YbeY
+1838961at2	Complete	JASKZX010000192.1	18870	19250	+	100.0	83	https://v10-1.orthodb.org/?query=1838961at2	Ribosomal protein L17
+1842956at2	Complete	JASKZX010000002.1	4861	3884	-	44.1	89	https://v10-1.orthodb.org/?query=1842956at2	Biotin--acetyl-CoA-carboxylase ligase
+1844275at2	Complete	JASKZX010000077.1	5002	4121	-	168.5	182	https://v10-1.orthodb.org/?query=1844275at2	Aspartate carbamoyltransferase
+1846503at2	Missing
+1874945at2	Complete	JASKZX010000192.1	13918	14361	+	75.0	86	https://v10-1.orthodb.org/?query=1874945at2	Ribosomal protein L15
+1890943at2	Complete	JASKZX010000047.1	3907	3146	-	65.4	93	https://v10-1.orthodb.org/?query=1890943at2	ribonuclease III
+1893906at2	Complete	JASKZX010000192.1	8015	8299	+	132.7	71	https://v10-1.orthodb.org/?query=1893906at2	Ribosomal protein S19, bacterial-type
+1904463at2	Missing
+1906715at2	Complete	JASKZX010000100.1	2401	3021	+	60.8	79	https://v10-1.orthodb.org/?query=1906715at2	Protein GrpE
+1932144at2	Complete	JASKZX010000032.1	1227	874	-	122.3	93	https://v10-1.orthodb.org/?query=1932144at2	Ribosomal protein L20
+1937072at2	Complete	JASKZX010000011.1	608	339	-	102.4	70	https://v10-1.orthodb.org/?query=1937072at2	Ribosomal protein S16
+1937493at2	Complete	JASKZX010000191.1	6205	5669	-	113.3	159	https://v10-1.orthodb.org/?query=1937493at2	ATP synthase subunit delta
+1940575at2	Complete	JASKZX010000046.1	1996	1760	-	90.8	48	https://v10-1.orthodb.org/?query=1940575at2	Ribosomal protein S18
+1949059at2	Missing
+1959318at2	Missing
+1963491at2	Complete	JASKZX010000192.1	12799	13161	+	142.3	103	https://v10-1.orthodb.org/?query=1963491at2	Ribosomal protein L18
+1971380at2	Complete	JASKZX010000030.1	5645	5292	-	128.9	113	https://v10-1.orthodb.org/?query=1971380at2	Ribosome-binding factor A
+1978865at2	Complete	JASKZX010000192.1	6796	7074	+	102.5	90	https://v10-1.orthodb.org/?query=1978865at2	Ribosomal protein L25/L23
+1990141at2	Complete	JASKZX010000030.1	3231	2962	-	107.5	69	https://v10-1.orthodb.org/?query=1990141at2	Ribosomal protein S15
+1990650at2	Missing
+2005443at2	Complete	JASKZX010000159.1	5012	4764	-	59.3	60	https://v10-1.orthodb.org/?query=2005443at2	Ribosomal protein S20
+2012682at2	Complete	JASKZX010000192.1	5165	5473	+	146.2	88	https://v10-1.orthodb.org/?query=2012682at2	Ribosomal protein S10
+2035880at2	Complete	JASKZX010000192.1	9968	10231	+	88.4	57	https://v10-1.orthodb.org/?query=2035880at2	Ribosomal protein S17/S11
+2040741at2	Complete	JASKZX010000192.1	10681	10992	+	62.9	54	https://v10-1.orthodb.org/?query=2040741at2	Ribosomal protein L24
+2046660at2	Complete	JASKZX010000032.1	1465	1265	-	32.5	33	https://v10-1.orthodb.org/?query=2046660at2	Ribosomal protein L35
+2063644at2	Complete	JASKZX010000192.1	9749	9949	+	56.5	37	https://v10-1.orthodb.org/?query=2063644at2	Ribosomal protein L29/L35
+2066663at2	Complete	JASKZX010000192.1	16615	16833	+	92.7	57	https://v10-1.orthodb.org/?query=2066663at2	Translation initiation factor IF-1
+2075502at2	Complete	JASKZX010000086.1	3365	3781	+	47.7	68	https://v10-1.orthodb.org/?query=2075502at2	YqgF/RNase H-like domain

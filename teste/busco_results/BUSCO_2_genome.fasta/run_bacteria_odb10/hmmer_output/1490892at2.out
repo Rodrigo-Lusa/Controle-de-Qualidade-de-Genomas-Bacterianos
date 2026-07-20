@@ -1,0 +1,17 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DWXM01000088.1:62779-63492|+ -            238 1490892at2           -             89   1.8e-16   56.5   3.8   1   4   1.2e-05     0.018   11.6   0.0     2    19    24    41    23    53 0.90 DWXM01000088.1_67 # 62779 # 63492 # 1 # ID=77_67;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.304
+DWXM01000088.1:62779-63492|+ -            238 1490892at2           -             89   1.8e-16   56.5   3.8   2   4   6.5e-06    0.0099   12.5   0.0    12    30    83   101    75   113 0.87 DWXM01000088.1_67 # 62779 # 63492 # 1 # ID=77_67;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.304
+DWXM01000088.1:62779-63492|+ -            238 1490892at2           -             89   1.8e-16   56.5   3.8   3   4    0.0015       2.2    4.9   0.1    34    55   121   142   109   156 0.84 DWXM01000088.1_67 # 62779 # 63492 # 1 # ID=77_67;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.304
+DWXM01000088.1:62779-63492|+ -            238 1490892at2           -             89   1.8e-16   56.5   3.8   4   4   1.2e-09   1.8e-06   24.5   0.5    56    89   190   232   182   232 0.77 DWXM01000088.1_67 # 62779 # 63492 # 1 # ID=77_67;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.304
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1490892at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_2_genome.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_2_genome.fasta/run_bacteria_odb10/hmmer_output/1490892at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1490892at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_2_genome.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:17:46 2026
+# [ok]

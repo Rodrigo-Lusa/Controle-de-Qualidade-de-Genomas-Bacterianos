@@ -1,0 +1,20 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_3296_length_1262_cov_2.602320:167-1261|-  -            365 665824at2            -            547  2.4e-117  389.6   2.7   1   1  8.4e-120  2.8e-117  389.4   2.7   215   545     2   356     1   358 0.95 NODE_3296_length_1262_cov_2.602320_1 # 167 # 1261 # -1 # ID=463_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.291
+NODE_1892_length_1882_cov_2.542967:2-706|+     -            235 665824at2            -            547     6e-24   81.3   0.1   1   1   2.8e-26   9.3e-24   80.7   0.1   383   545    73   232    61   234 0.90 NODE_1892_length_1882_cov_2.542967_1 # 2 # 706 # 1 # ID=202_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.299
+NODE_3498_length_1215_cov_5.248276:2-1213|-    -            404 665824at2            -            547     2e-09   33.4   0.2   1   3         1   3.5e+02   -3.7   0.2   507   542    24    60    22    63 0.72 NODE_3498_length_1215_cov_5.248276_1 # 2 # 1213 # -1 # ID=498_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.318
+NODE_3498_length_1215_cov_5.248276:2-1213|-    -            404 665824at2            -            547     2e-09   33.4   0.2   2   3   4.7e-10   1.5e-07   27.2   0.0    64   210   170   316   159   321 0.92 NODE_3498_length_1215_cov_5.248276_1 # 2 # 1213 # -1 # ID=498_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.318
+NODE_3498_length_1215_cov_5.248276:2-1213|-    -            404 665824at2            -            547     2e-09   33.4   0.2   3   3    0.0053       1.7    3.9   0.0   383   444   326   389   321   393 0.75 NODE_3498_length_1215_cov_5.248276_1 # 2 # 1213 # -1 # ID=498_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.318
+NODE_1966_length_1825_cov_3.109040:1-1209|-    -            403 665824at2            -            547   5.2e-09   32.0   0.0   1   1   2.4e-11     8e-09   31.4   0.0    32   130   296   393   269   396 0.92 NODE_1966_length_1825_cov_3.109040_1 # 1 # 1209 # -1 # ID=212_1;partial=10;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.325
+NODE_1966_length_1825_cov_3.109040:1413-1574|- -             54 665824at2            -            547   9.9e-05   17.9   0.1   1   1     3e-07   9.9e-05   17.9   0.1   492   539     2    48     1    53 0.84 NODE_1966_length_1825_cov_3.109040_2 # 1413 # 1574 # -1 # ID=212_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.265
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/665824at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_4_mag.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_4_mag.fasta/run_bacteria_odb10/hmmer_output/665824at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/665824at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_4_mag.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:18:43 2026
+# [ok]

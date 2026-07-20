@@ -1,0 +1,17 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DATGTE010000023.1:92575-93258|- -            228 1890943at2           -            107     2e-19   66.9   8.2   1   4     2e-14   5.1e-11   39.8   0.6     2    55    17    87    16    98 0.75 DATGTE010000023.1_88 # 92575 # 93258 # -1 # ID=23_88;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.405
+DATGTE010000023.1:92575-93258|- -            228 1890943at2           -            107     2e-19   66.9   8.2   2   4   2.1e-07   0.00055   17.2   0.0    57    79   111   133   105   138 0.87 DATGTE010000023.1_88 # 92575 # 93258 # -1 # ID=23_88;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.405
+DATGTE010000023.1:92575-93258|- -            228 1890943at2           -            107     2e-19   66.9   8.2   3   4     0.022        58    1.1   0.0    82    93   157   168   155   173 0.85 DATGTE010000023.1_88 # 92575 # 93258 # -1 # ID=23_88;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.405
+DATGTE010000023.1:92575-93258|- -            228 1890943at2           -            107     2e-19   66.9   8.2   4   4   0.00033      0.86    7.0   0.2    93   106   209   222   205   223 0.91 DATGTE010000023.1_88 # 92575 # 93258 # -1 # ID=23_88;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.405
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1890943at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_1_genome.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_1_genome.fasta/run_bacteria_odb10/hmmer_output/1890943at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1890943at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_1_genome.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:17:19 2026
+# [ok]

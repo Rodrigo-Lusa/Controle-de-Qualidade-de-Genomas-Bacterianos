@@ -1,0 +1,20 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_392_length_5317_cov_3.451159:3330-4757|-  -            476 267682at2            -            304     3e-76  253.2   6.0   1   2   1.9e-11   7.1e-09   31.9   0.9     6    75    24   127    12   154 0.75 NODE_392_length_5317_cov_3.451159_4 # 3330 # 4757 # -1 # ID=8_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.445
+NODE_392_length_5317_cov_3.451159:3330-4757|-  -            476 267682at2            -            304     3e-76  253.2   6.0   2   2     3e-67   1.1e-64  215.1   0.4    83   296   164   437   153   459 0.84 NODE_392_length_5317_cov_3.451159_4 # 3330 # 4757 # -1 # ID=8_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.445
+NODE_131_length_10257_cov_4.521074:3544-4503|+ -            320 267682at2            -            304    0.0012   14.8   0.3   1   2      0.27     1e+02   -1.4   0.0    71   106   111   146   105   154 0.74 NODE_131_length_10257_cov_4.521074_5 # 3544 # 4503 # 1 # ID=1_5;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.403
+NODE_131_length_10257_cov_4.521074:3544-4503|+ -            320 267682at2            -            304    0.0012   14.8   0.3   2   2   9.8e-06    0.0037   13.2   0.1   211   268   205   262   171   274 0.86 NODE_131_length_10257_cov_4.521074_5 # 3544 # 4503 # 1 # ID=1_5;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.403
+NODE_511_length_4403_cov_4.624425:1415-1954|+  -            180 267682at2            -            304     0.004   13.1   0.2   1   1   1.4e-05    0.0051   12.7   0.2   216   259    82   125    56   131 0.89 NODE_511_length_4403_cov_4.624425_2 # 1415 # 1954 # 1 # ID=28_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.357
+NODE_712_length_3606_cov_2.813292:451-1089|-   -            213 267682at2            -            304    0.0056   12.6   0.0   1   1   1.9e-05    0.0071   12.2   0.0   224   265   162   204   116   207 0.77 NODE_712_length_3606_cov_2.813292_2 # 451 # 1089 # -1 # ID=62_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.426
+NODE_1576_length_2111_cov_2.754377:244-780|-   -            179 267682at2            -            304    0.0067   12.3   0.2   1   1   2.5e-05    0.0096   11.8   0.2   218   252    90   124    76   134 0.85 NODE_1576_length_2111_cov_2.754377_2 # 244 # 780 # -1 # ID=224_2;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.402
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/267682at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_mag.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_mag.fasta/run_bacteria_odb10/hmmer_output/267682at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/267682at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_mag.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:18:20 2026
+# [ok]

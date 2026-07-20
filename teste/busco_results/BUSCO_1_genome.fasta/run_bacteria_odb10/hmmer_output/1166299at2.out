@@ -1,0 +1,18 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DATGTE010000023.1:51498-52397|- -            300 1166299at2           -            131   2.9e-39  131.3   5.5   1   4   2.5e-22   3.2e-19   66.5   1.0     2    67     7    88     6    97 0.79 DATGTE010000023.1_50 # 51498 # 52397 # -1 # ID=23_50;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.396
+DATGTE010000023.1:51498-52397|- -            300 1166299at2           -            131   2.9e-39  131.3   5.5   2   4   2.3e-12     3e-09   34.2   0.0    66    94   111   139   105   156 0.88 DATGTE010000023.1_50 # 51498 # 52397 # -1 # ID=23_50;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.396
+DATGTE010000023.1:51498-52397|- -            300 1166299at2           -            131   2.9e-39  131.3   5.5   3   4   9.6e-10   1.2e-06   25.8   0.0    89   123   165   206   161   214 0.84 DATGTE010000023.1_50 # 51498 # 52397 # -1 # ID=23_50;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.396
+DATGTE010000023.1:51498-52397|- -            300 1166299at2           -            131   2.9e-39  131.3   5.5   4   4      0.14   1.8e+02   -0.6   0.0    30    55   228   256   211   260 0.75 DATGTE010000023.1_50 # 51498 # 52397 # -1 # ID=23_50;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.396
+DATGTE010000020.1:56123-56347|- -             75 1166299at2           -            131    0.0035   14.6   0.0   1   1   3.1e-06     0.004   14.4   0.0    61    89    40    68    14    73 0.74 DATGTE010000020.1_63 # 56123 # 56347 # -1 # ID=20_63;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.360
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1166299at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_1_genome.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_1_genome.fasta/run_bacteria_odb10/hmmer_output/1166299at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1166299at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_1_genome.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:17:18 2026
+# [ok]

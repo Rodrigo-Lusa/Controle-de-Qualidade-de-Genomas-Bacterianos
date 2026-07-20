@@ -1,0 +1,18 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+JASKZX010000053.1:3745-4926|+ -            394 1949059at2           -            105       7.7    3.0  11.4   1   5      0.21   2.5e+02   -1.9   0.1    25    57    14    33     3    41 0.55 JASKZX010000053.1_6 # 3745 # 4926 # 1 # ID=124_6;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.402
+JASKZX010000053.1:3745-4926|+ -            394 1949059at2           -            105       7.7    3.0  11.4   2   5      0.05        60    0.1   0.1    25    59    62    92    54   113 0.78 JASKZX010000053.1_6 # 3745 # 4926 # 1 # ID=124_6;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.402
+JASKZX010000053.1:3745-4926|+ -            394 1949059at2           -            105       7.7    3.0  11.4   3   5      0.15   1.8e+02   -1.4   0.1    28    66   148   190   136   200 0.52 JASKZX010000053.1_6 # 3745 # 4926 # 1 # ID=124_6;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.402
+JASKZX010000053.1:3745-4926|+ -            394 1949059at2           -            105       7.7    3.0  11.4   4   5     0.002       2.4    4.6   0.1    23    42   233   252   222   261 0.83 JASKZX010000053.1_6 # 3745 # 4926 # 1 # ID=124_6;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.402
+JASKZX010000053.1:3745-4926|+ -            394 1949059at2           -            105       7.7    3.0  11.4   5   5    0.0086        10    2.6   0.0    23    42   319   338   317   371 0.82 JASKZX010000053.1_6 # 3745 # 4926 # 1 # ID=124_6;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.402
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1949059at2.hmm
+# Target file:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_genome.fasta/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_genome.fasta/run_bacteria_odb10/hmmer_output/1949059at2.out --cpu 1 /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_downloads/lineages/bacteria_odb10/hmms/1949059at2.hmm /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026/busco_results/BUSCO_3_genome.fasta/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /LACTAS-HELISSON-01/diretorio_compartilhado/aula_genomas_bacterianos_2026
+# Date:            Mon Jul 20 11:18:08 2026
+# [ok]
