@@ -30,7 +30,7 @@ conda env create -f busco_environment.yml
 ```
 
 ```bash
-conda env create -f quast_environment.yml
+conda create -n quast_env -c conda-forge -c bioconda quast=5.0.2
 ```
 
 ---
