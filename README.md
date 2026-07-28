@@ -26,7 +26,7 @@ Neste exercício vamos comparar genomas completos e MAGs usando duas ferramentas
 OBS: os ambientes já estão instalados em todos os usuários do minicurso. Para alunos externos, a etapa de instalar os ambientes com base no 'environment.yml' deve ser realizada:
 
 ```bash
-conda env create -f busco_environment.yml
+conda create -n busco_env -c conda-forge -c bioconda busco
 ```
 
 ```bash
