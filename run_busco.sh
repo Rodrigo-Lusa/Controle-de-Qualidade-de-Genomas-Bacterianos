@@ -13,7 +13,7 @@ for genome in fastas/*.fasta; do
         -l bacteria_odb10 \
         -o "BUSCO_${name}" \
         --out_path busco_results \
-        -c 16
+        -c 8
 
 done
 
