@@ -9,21 +9,18 @@ Neste exercício vamos comparar genomas completos e MAGs usando duas ferramentas
 ```text
 .
 ├── README.md
-├── *environment.yml
 ├── fastas/
 │   ├── 1_genome.fasta
 │   ├── 1_mag.fasta
 │   └── ...
-├── scripts/
-│   └── run_busco.sh
-└── results/
+└── run_busco.sh
 ```
 
 ---
 
 ## Instalação do ambiente conda
 
-OBS: os ambientes já estão instalados em todos os usuários do minicurso. Para alunos externos, a etapa de instalar os ambientes com base no 'environment.yml' deve ser realizada:
+OBS: os ambientes já estão instalados em todos os usuários do minicurso. Para alunos externos, a etapa de instalar os ambientes deve ser realizada:
 
 ```bash
 conda create -n busco_env -c conda-forge -c bioconda busco
